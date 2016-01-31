@@ -11,13 +11,16 @@ Download links:
 ### Setup instructions (from [Continuum Anaconda website](https://www.continuum.io/downloads))
 
 Windows:
-1. Download the installer.
-2. Double-click the .exe file to install Anaconda and follow the instructions on the screen.
+
+1.  Download the installer.
+2.  Double-click the .exe file to install Anaconda and follow the instructions on the screen.
 
 OS X:
-1. Download the installer.
-2. Double click the .pkg file and follow the instructions on the screen.
+
+1.  Download the installer.
+2.  Double click the .pkg file and follow the instructions on the screen.
 
 Linux:
-1. Download the installer.
-2. After downloading the installer, in your terminal window execute: `bash Anaconda2-2.4.1-Linux-x86_64.sh`
+
+1.  Download the installer.
+2.  After downloading the installer, in your terminal window execute: `bash Anaconda2-2.4.1-Linux-x86_64.sh`
